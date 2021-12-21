@@ -1,5 +1,12 @@
 # Changelog
 
+### [5.2.1](https://www.github.com/nftstorage/nft.storage/compare/nft.storage-v5.2.0...nft.storage-v5.2.1) (2021-12-21)
+
+
+### Bug Fixes
+
+* store directory example ([#1002](https://www.github.com/nftstorage/nft.storage/issues/1002)) ([79cd4bf](https://www.github.com/nftstorage/nft.storage/commit/79cd4bf09d8c8ba66aee4bf3532f790afd4ba8d5))
+
 ## [5.2.0](https://www.github.com/nftstorage/nft.storage/compare/nft.storage-v5.1.3...nft.storage-v5.2.0) (2021-12-17)
 
 
