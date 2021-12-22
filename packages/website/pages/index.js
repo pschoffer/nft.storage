@@ -4,9 +4,7 @@ import countly from '../lib/countly.js'
 import Hero from '../components/hero.js'
 import HashLink from '../components/hashlink.js'
 import Step from '../components/step.js'
-import Box from '../components/box.js'
 import Link from 'next/link'
-import { FAQ } from './faq'
 
 export async function getStaticProps() {
   const logos = fs.readdirSync('public/images/marketplace-logos')
